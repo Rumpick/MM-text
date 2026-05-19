@@ -1,0 +1,5 @@
+{
+    result: {
+        currentText: '20 out of 143 boards completed'
+    }
+},
