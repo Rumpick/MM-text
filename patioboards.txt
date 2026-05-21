@@ -1,5 +1,5 @@
 {
   "result": {
-    "currentText": "19 out of 140 boards completed, Plus 3 8ft boards"
+    "currentText": "26% - 37/143 boards completed"
   }
 }
