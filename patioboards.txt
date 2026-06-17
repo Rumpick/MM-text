@@ -1,5 +1,6 @@
 {
   "result": {
-    "currentText": "56% - 80/143 boards completed,\nplus 2 damaged boards"
+    "currentText": "56% - 80/143 boards completed,
+plus 2 damaged boards"
   }
 }
