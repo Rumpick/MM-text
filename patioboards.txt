@@ -1,5 +1,9 @@
 {
   "result": {
-    "currentText": "100% - All Necessary boards completed\n(at least 125/143 boards brought upstairs)"
+    "currentText": "Meals for next week:/n
+- butter chicken and green beans/n
+- pierogies with farmer sausage, sour cream, green onions, and beets/n
+- chicken enchiladas with peppers, onions, corn and refried beans/n
+- mini meatballs with roasted potatoes and frozen peas"
   }
 }
